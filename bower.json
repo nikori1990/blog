@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "nikori1990 <nikori1990@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "parsleyjs": "^2.7.0"
+  }
+}
